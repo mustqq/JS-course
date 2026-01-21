@@ -2,12 +2,16 @@
 
 Video 1
 Introduction to the series and get experience from JS and know what core syntax is.
+
 Video 2
 JS is a programming language and most used programming language. You dont need to compile JS, u just run it.
+
 Video 3
 JS on the client side is in the browser and it uses script tags. Server side requires node.js installed and is usually used to build web services
+
 Video 4
 Useful vs code extensions: ESLint, prettier, JavaScript (ES6) code snippets. Download node.js to use or interact it outside the browser (nvm install node) 
+
 Video 5
 Install vscode, extensions, node.js
 Video 6
